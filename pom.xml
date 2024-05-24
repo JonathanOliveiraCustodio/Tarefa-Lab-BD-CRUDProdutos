@@ -83,6 +83,15 @@
 			<groupId>net.sourceforge.jtds</groupId>
 			<artifactId>jtds</artifactId>
 		</dependency>
+		
+			<!--
+		https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports -->
+		<dependency>
+			<groupId>net.sf.jasperreports</groupId>
+			<artifactId>jasperreports</artifactId>
+			<version>6.19.1</version>
+		</dependency>
+		
 	</dependencies>
 	<build>
 		<plugins>
